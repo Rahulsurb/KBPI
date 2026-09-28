@@ -3,7 +3,7 @@ A Geospatial Multi-Indicator Framework for Agricultural Resource Prioritization 
 This repository contains the code, methodological documentation, data-processing workflow, and reproducibility materials associated with the Khet Bachao Priority Index (KBPI), a geospatial multi-indicator framework developed for district-level agricultural resource prioritization in the Bundelkhand region of India. The framework integrates climatic, soil, vegetation, and agricultural-management indicators into a composite Agricultural Resource Index (ARI) and subsequently transforms the ARI into the Khet Bachao Priority Index (KBPI) to identify spatial differences in relative agricultural-resource constraints. The workflow combines geospatial processing, statistical screening, normalization, Entropy Weight Method (EWM)-based weighting, composite-index construction, spatial classification, and sensitivity analysis.
 
 # Study Region
-The framework was applied to the Bundelkhand region of India, a semi-arid agricultural region characterized by substantial spatial variability in rainfall, soil properties, vegetation conditions, water availability, and agricultural management.
+The framework was applied to the #Bundelkhand region of India, a semi-arid agricultural region characterized by substantial spatial variability in rainfall, soil properties, vegetation conditions, water availability, and agricultural management.
 The analysis was conducted at the district level. The study dataset contains observations for 14 districts of Bundelkhand. The district-level framework is intended to provide a spatial screening perspective rather than a field-scale diagnosis.
 
 # KBPI Conceptual Framework
